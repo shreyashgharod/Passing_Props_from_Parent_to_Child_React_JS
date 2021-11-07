@@ -1,0 +1,2 @@
+# Passing_Props_from_Parent_to_Child_React_JS
+Created with CodeSandbox
