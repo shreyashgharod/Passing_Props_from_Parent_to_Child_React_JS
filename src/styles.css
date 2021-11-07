@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#compId {
+  display: none;
+}
+.ChildComp {
+  background-color: aqua;
+}
+.App {
+  background-color: coral;
+}
